@@ -75,7 +75,8 @@ An element with position relative moves the element away from its default positi
 ![challenge 4](images/css4.png)
 
 
-##### Challenge 5:
+##### Challenge 5: [Solution](https://codepen.io/kgalejandrino/pen/ZEORvRe)
+This is one is quite similar with challenge 2. The only difference was that floating div1 to right will put div2 on the same line as div1. The trick here is to use CSS property __clear__ to specify which side of the floating elements are not allowed to float. 
 
 ![challenge 5](images/css5.png)
 
