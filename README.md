@@ -57,19 +57,20 @@ Added two extra div. First div is nested to a div with an id of "left" and float
 ![challenge 1](images/css1.png)
 
 
-##### Challenge 2:[Solution](https://codepen.io/kgalejandrino/pen/qBNKbNp)
+##### Challenge 2: [Solution](https://codepen.io/kgalejandrino/pen/qBNKbNp)
 Taking advantage of float & margin. div1 is float to left while div3 is float to right. By setting margin to auto, it will horizontally center div2 within its container and take up the specified width, the remaining space will be split equally between left & right margins.
 
 ![challenge 2](images/css2.png)
 
 
-##### Challenge 3:[Solution](https://codepen.io/kgalejandrino/pen/qBNKbNp)
+##### Challenge 3: [Solution](https://codepen.io/kgalejandrino/pen/qBNKbNp)
 I nested div2 within div1. With this, I can absolutely positioned div2 within div1 (parent container, which is position relatively) and set its offset left & top property to 25% to center div2 container. It is set to 25% because we should take account of the width & height of the container. Again, I simply set the div1's margin to auto to equally center it horizontally.  
 
 ![challenge 3](images/css3.png)
 
 
-##### Challenge 4:
+##### Challenge 4: [Solution](https://codepen.io/kgalejandrino/pen/qBNKbNp)
+An element with position relative moves the element away from its default position while the other elements around it still behaves as if that element is statically positioned. We can overlap div2 with div1, by setting its position to relative and move 50px away from the bottom & left.
 
 ![challenge 4](images/css4.png)
 
