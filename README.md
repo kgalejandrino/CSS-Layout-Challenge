@@ -51,7 +51,7 @@ div {
 ### The Comps
 
 
-##### Challenge 1: [Solution](https://codepen.io/kgalejandrino/pen/qBNKbNp)
+##### Challenge 1: [Solution](https://codepen.io/kgalejandrino/pen/ExyRojZ)
 Added two extra div. First div is nested to a div with an id of "left" and float it to the left. While the second and third div is also nested to a div with an id of "right" and float it to the right. As div are block elements, I set their display property to "inline-block" so that div2 and div3 sit next to each other. 
 
 ![challenge 1](images/css1.png)
