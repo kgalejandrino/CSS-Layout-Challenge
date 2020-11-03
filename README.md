@@ -57,8 +57,8 @@ Added two extra div. First div is nested to a div with an id of "left" and float
 ![challenge 1](images/css1.png)
 
 
-##### Challenge 2: [Solution](https://codepen.io/kgalejandrino/pen/qBNKbNp)
-Taking advantage of float & margin. div1 is float to left while div3 is float to right. By setting margin to auto, it will horizontally center div2 within its container and take up the specified width, the remaining space will be split equally between left & right margins.
+##### Challenge 2: [Solution](https://codepen.io/kgalejandrino/pen/XWKYVdN)
+Taking advantage of float & margin. Div1 is already placed to where it should be. By setting div2's margin to auto, it will horizontally center div2 within its container and take up the specified width, the remaining space will be split equally between left & right margins. To move div3 far right, we can float it to the right. 
 
 ![challenge 2](images/css2.png)
 
