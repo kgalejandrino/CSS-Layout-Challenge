@@ -3,7 +3,7 @@ title: CSS Layout Challenge
 length:
 tags: css, layout, positioning
 ---
-
+### Credit @ (https://github.com/turingschool-examples/css-layout-challenges)
 
 ### CSS Layout Challenge
 
