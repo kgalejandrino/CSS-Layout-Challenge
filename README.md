@@ -63,7 +63,8 @@ Taking advantage of float & margin. div1 is float to left while div3 is float to
 ![challenge 2](images/css2.png)
 
 
-##### Challenge 3:
+##### Challenge 3:[Solution](https://codepen.io/kgalejandrino/pen/qBNKbNp)
+I nested div2 within div1. With this, I can absolutely positioned div2 within div1 (parent container, which is position relatively) and set its offset left & top property to 25% to center div2 container. It is set to 25% because we should take account of the width & height of the container. Again, I simply set the div1's margin to auto to equally center it horizontally.  
 
 ![challenge 3](images/css3.png)
 
