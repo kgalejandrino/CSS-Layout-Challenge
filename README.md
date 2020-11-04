@@ -82,7 +82,7 @@ This is one is quite similar with challenge 2. The only difference was that floa
 
 
 ##### Challenge 6: [Solution](https://codepen.io/kgalejandrino/pen/zYBaJoN)
-I nested div2 and div3 inside div1. I then set the position of div1 to absolute, and set an offset property of bottom:0 and right: 0 so that it will be positioned at the bottom right corner of the page. The same thing with div2 and div3, I set its position to absolute so that I can easily positioned them relative to div1 (which is the parent container). 
+I nested div2 and div3 inside div1. I then set the position of div1 to absolute, and set an offset property of bottom:0 and right: 0 so that it will be positioned at the bottom right corner of the page. The same thing with div2 and div3, I set its position to absolute so that I can easily positioned them relative to div1 (which is the parent container). I set an offset property of bottom:0 & left: 0 for div2 and top:0 & right:0 for div3.
 
 ![challenge 6](images/css6.png)
 
