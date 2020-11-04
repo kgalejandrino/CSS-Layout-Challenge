@@ -87,7 +87,8 @@ I nested div2 and div3 inside div1. I then set the position of div1 to absolute,
 ![challenge 6](images/css6.png)
 
 
-##### Challenge 7:
+##### Challenge 7: [Solution](https://codepen.io/kgalejandrino/pen/pobKOay)
+I nested div2 inside div1. Challenge can be easily achieved with position relative & absolute. Setting div1 to position relative, div2 can be absolutely positioned relative to div1 (parent container). Using an offset property of bottom:0 & right: 0, div2 will be move to the bottom right corner of the page. 
 
 ![challenge 7](images/css7.png)
 
