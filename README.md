@@ -123,7 +123,8 @@ I nested both div2 & div3 inside div1. I set div1's position to relative so we c
 ![challenge 12](images/css12.png)
 
 
-##### Challenge 13:
+##### Challenge 13: [Solution](https://codepen.io/kgalejandrino/pen/rNLrxyL)
+I set all div's position to relative, so I can overlap them. To get them to the correct position, I just moved them using bottom & left offset property with a value half of the width & height of the previous div. 
 
 ![challenge 13](images/css13.png)
 
