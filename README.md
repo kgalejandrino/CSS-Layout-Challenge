@@ -99,7 +99,8 @@ Very similar with Challenge 7. To move div2 to the top right corner of the page,
 ![challenge 8](images/css8.png)
 
 
-##### Challenge 9:
+##### Challenge 9: [Solution](https://codepen.io/kgalejandrino/pen/LYZrJBr)
+Nested div2 & div3 inside div1. With position relative & absolute, we can easily move child containers where we want them to be. I set the position of div1 (parent container) to relative. Div2 & Div3 on the otherhand is set to absolute, and will be absolutely positioned relative to div1. Div2 is set to an offset property of top:0 so it will be move to the topmost part of the page. Since, width of the child element is already 50% of the parents width, we can center child element horizontally by setting its margin-left:25%. Same thing with div3, only it is set to an offset property of bottom: 0, to place it at the bottommost part of the page. 
 
 ![challenge 9](images/css9.png)
 
