@@ -117,7 +117,8 @@ First, I nested div2 & div3 inside div1 and also div3 inside div2. After that, I
 ![challenge 11](images/css11.png)
 
 
-##### Challenge 12:
+##### Challenge 12: [Solution](https://codepen.io/kgalejandrino/pen/MWeBaPM)
+I nested both div2 & div3 inside div1. I set div1's position to relative so we can then absolutely positioned both div2 & div3 relative to it. Now, to get the correct position I first set its offset bottom: 0 & right:0 moving them to the bottom right corner of the page. For div2, I simply change the right offset value half of the containers width (but with a negative value since we want it to move the opposite and not away). That goes the same way for div3, but we change the bottom offset value half of its containers height (again a negative value since we want it to move the opposite and not away). 
 
 ![challenge 12](images/css12.png)
 
