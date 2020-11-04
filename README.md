@@ -105,7 +105,8 @@ Nested div2 & div3 inside div1. With position relative & absolute, we can easily
 ![challenge 9](images/css9.png)
 
 
-##### Challenge 10:
+##### Challenge 10: [Solution](https://codepen.io/kgalejandrino/pen/jOrKeNV)
+Again, nested div2 & div3 inside div1. With div1 positioned to relative, we can absolutely positioned its child element relatively to it. I think the tricky part here is getting div2 & div3 to the correct position. Since div2 & div3 is set to position absolute I used the offset property to move it around and place it equally on each side as possible.  
 
 ![challenge 10](images/css10.png)
 
