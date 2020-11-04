@@ -3,9 +3,8 @@ title: CSS Layout Challenge
 length:
 tags: css, layout, positioning
 ---
-### Credit @ (https://github.com/turingschool-examples/css-layout-challenges)
 
-### CSS Layout Challenge
+### CSS Layout Challenge (https://github.com/turingschool-examples/css-layout-challenges)
 
 As a front end developer, you will often be handed comps from a designer that you then have to build. You will need to be able to take a graphic file and recreate it with code. This means that you'll have to be able to think through how you're going to get all the elements in that comp where they need to be, and that requires a solid understanding of how to position HTML elements with CSS.
 
@@ -135,6 +134,7 @@ I nested div2 inside div1 so I can absolutely position it relative to div and ju
 ![challenge 14](images/css14.png)
 
 
-##### Challenge 15:
-
+##### Challenge 15: [Solution](https://codepen.io/kgalejandrino/pen/GRqBoaa)
+First, I set the same width & height value for div1 & div4, and so with div2 & div3. I set their position to absolute, so I can move them to the correct position. Again, to get them to where they are I take account of the width & height value of the container depending on where they should be in the page. 
 ![challenge 15](images/css15.png)
+
