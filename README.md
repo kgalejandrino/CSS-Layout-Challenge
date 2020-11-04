@@ -93,7 +93,8 @@ I nested div2 inside div1. Challenge can be easily achieved with position relati
 ![challenge 7](images/css7.png)
 
 
-##### Challenge 8:
+##### Challenge 8: [Solution](https://codepen.io/kgalejandrino/pen/pobKOLy)
+Very similar with Challenge 7. To move div2 to the top right corner of the page, I just set top:0 & right:0. Again, this can be achieved with position absolute & relative.
 
 ![challenge 8](images/css8.png)
 
