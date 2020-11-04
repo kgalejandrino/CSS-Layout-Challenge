@@ -76,12 +76,13 @@ An element with position relative moves the element away from its default positi
 
 
 ##### Challenge 5: [Solution](https://codepen.io/kgalejandrino/pen/ZEORvRe)
-This is one is quite similar with challenge 2. The only difference was that floating div1 to right will put div2 on the same line as div1. The trick here is to use CSS property __clear__ to specify which side of the floating elements are not allowed to float. 
+This is one is quite similar with challenge 2. The only difference was that floating div1 to right will put div2 on the same line as div1. To avoid that, I used CSS property __clear__ and set it to right so that there will be no floating elements to the right.
 
 ![challenge 5](images/css5.png)
 
 
-##### Challenge 6:
+##### Challenge 6: [Solution](https://codepen.io/kgalejandrino/pen/zYBaJoN)
+I nested div2 and div3 inside div1. I then set the position of div1 to absolute, and set an offset property of bottom:0 and right: 0 so that it will be positioned at the bottom right corner of the page. The same thing with div2 and div3, I set its position to absolute so that I can easily positioned them relative to div1 (which is the parent container). 
 
 ![challenge 6](images/css6.png)
 
