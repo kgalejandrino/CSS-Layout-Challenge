@@ -129,7 +129,8 @@ I set all div's position to relative, so I can overlap them. To get them to the 
 ![challenge 13](images/css13.png)
 
 
-##### Challenge 14:
+##### Challenge 14: [Solution](https://codepen.io/kgalejandrino/pen/rNLrxpW)
+I nested div2 inside div1 so I can absolutely position it relative to div and just offset property bottom:0. Then, I float div1 to right. 
 
 ![challenge 14](images/css14.png)
 
